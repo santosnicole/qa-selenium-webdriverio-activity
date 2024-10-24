@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"ff9b43c34a817b44fa9b6edf61b00141","name":"My Login application","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":2,"items":[{"uid":"58c72821b5c923ffa33cfa928a42b3a8","name":"Right UltimateQA","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"b568c562abb57d90eb9f625774ac5870","name":"Left Ultimate QA","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

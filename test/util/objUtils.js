@@ -1,5 +1,5 @@
-import file from "./file";
-import reporter from "./reporter";
+import file from "./file"
+import reporter from "./reporter"
 
 class objUtil {
   /** *******************************************************
@@ -9,10 +9,10 @@ class objUtil {
    * @returns <none>
    ******************************************************* */
   async clickObject(objElement) {
-    await reporter.addLog(`Started Function: clickObject`);
-    await objElement.waitForExist();
-    await objElement.click();
-    await reporter.addLog(`Completed Function: clickObject`);
+    await reporter.addLog(`Started Function: clickObject`)
+    await objElement.waitForExist()
+    await objElement.click()
+    await reporter.addLog(`Completed Function: clickObject`)
   }
 
   /** *******************************************************
@@ -23,12 +23,12 @@ class objUtil {
    * @returns <none>
    ******************************************************* */
   async setObjectValue(objElement, strText) {
-    await reporter.addLog(`Started Function: setObjectValue`);
-    await objElement.waitForExist();
-    await objElement.setValue(strText);
-    const strXpath = await objElement.selector;
-    await reporter.addLog(`Object [${strXpath}] Value Set to [${strText}]`);
-    await reporter.addLog(`Completed Function: setObjectValue`);
+    await reporter.addLog(`Started Function: setObjectValue`)
+    await objElement.waitForExist()
+    await objElement.setValue(strText)
+    const strXpath = await objElement.selector
+    await reporter.addLog(`Object [${strXpath}] Value Set to [${strText}]`)
+    await reporter.addLog(`Completed Function: setObjectValue`)
   }
 
   /** *******************************************************
@@ -38,14 +38,15 @@ class objUtil {
    * @returns {String} Text retrieved from the object
    ******************************************************* */
   async getObjectText(objElement) {
-    await reporter.addLog(`Started Function: getObjectText`);
-    await objElement.waitForExist();
-    const strText = await objElement.getText();
-    const strXpath = await objElement.selector;
-    await reporter.addLog(`Object [${strXpath}] Text [${strText}]`);
-    await reporter.addLog(`Completed Function: getObjectText`);
-    return strText;
+    await reporter.addLog(`Started Function: getObjectText`)
+    await objElement.waitForExist()
+    const strText = await objElement.getText()
+    const strXpath = await objElement.selector
+    await reporter.addLog(`Object [${strXpath}] Text [${strText}]`)
+    await reporter.addLog(`Completed Function: getObjectText`)
+    return strText
   }
+
 }
 
-export default new objUtil();
+export default new objUtil()
