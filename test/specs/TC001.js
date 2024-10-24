@@ -6,20 +6,17 @@ import objUtils from "../util/objUtils.js"
 import moment from "moment"
 
 describe("Heroku App SignUp_TC001", () => {
-  it("Navigate to thinking tester website", async () => {
+  it("TC001_Navigate to thinking tester website", async () => {
     await login.navigate()
   })
 
-  it("User clicks the Sign up button.", async () => {
+  it("TC001_User clicks the Sign up button.", async () => {
     await objUtils.clickObject(login.signUpBtn)
   })
 
-  it("User fills out fields.", async () => {
-    
+  it("TC001_User fills out fields.", async () => {
     const seatNum = "13"
-    const my_email = `test_${moment().format(
-      "YYYYMMDD"
-    )}${seatNum}@test.com`
+    const my_email = `testn_${moment().format("YYYYMMDDHH")}${seatNum}@test.com`
     const password = "SamplePassword"
 
     await objUtils.setObjectValue(signup.firstNameTxt, "Nicole")
@@ -28,7 +25,7 @@ describe("Heroku App SignUp_TC001", () => {
     await objUtils.setObjectValue(signup.passwordTxt, password)
   })
 
-  it("Click Submit button.", async () => {
+  it("TC001_Click Submit button.", async () => {
     await objUtils.clickObject(signup.signupBtn)
 
     const pageTitle = await objUtils.getObjectText(contactList.pageTitle)

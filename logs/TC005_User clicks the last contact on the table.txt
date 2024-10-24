@@ -1,0 +1,14 @@
+[Thursday, October 24th 2024 16:20:43] - Test started: TC005_User clicks the last contact on the table
+
+[Thursday, October 24th 2024 16:20:43] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:20:44] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:20:44] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:20:44] - Object [//header/h1] Text [Contact Details]
+
+[Thursday, October 24th 2024 16:20:44] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:20:44] - Test Completed: TC005_User clicks the last contact on the table
+

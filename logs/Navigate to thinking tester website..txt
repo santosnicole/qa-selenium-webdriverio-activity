@@ -1,4 +1,0 @@
-[Thursday, October 24th 2024 15:59:07] - Test started: Navigate to thinking tester website.
-
-[Thursday, October 24th 2024 15:59:10] - Test Completed: Navigate to thinking tester website.
-

@@ -6,13 +6,13 @@ import moment from "moment"
 import file from "../util/file.js"
 
 describe("Heroku App SignUp_TC004", () => {
-  it("Navigate to thinking tester website.", async () => {
+  it("TC006_Navigate to thinking tester website.", async () => {
     await login.navigate()
   })
 
-  it("Login using the save credentials.", async () => {
+  it("TC006_Login using the save credentials.", async () => {
     const seatNum = "13"
-    const my_email = `test_${moment().format("YYYYMMDD")}${seatNum}@test.com`
+    const my_email = `testn_${moment().format("YYYYMMDDHH")}${seatNum}@test.com`
     const password = "SamplePassword"
 
     await objUtils.setObjectValue(login.emailTxt, my_email)
@@ -22,7 +22,7 @@ describe("Heroku App SignUp_TC004", () => {
     const pageTitle = await objUtils.getObjectText(contactList.pageTitle)
     await expect(pageTitle).toContain("Contact List")
   })
-  it("User creates a text file containing all the details of the existing contacts in the table.", async () => {
+  it("TC006_User creates a text file containing all the details of the existing contacts in the table.", async () => {
     const contacts = []
     await browser.waitUntil(
       async () => {

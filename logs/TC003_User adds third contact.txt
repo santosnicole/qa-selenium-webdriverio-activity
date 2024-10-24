@@ -1,0 +1,74 @@
+[Thursday, October 24th 2024 16:20:16] - Test started: TC003_User adds third contact
+
+[Thursday, October 24th 2024 16:20:16] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:16] - Object [#firstName] Value Set to [Lily]
+
+[Thursday, October 24th 2024 16:20:16] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:16] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:16] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:16] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:16] - Object [#lastName] Value Set to [Johnson]
+
+[Thursday, October 24th 2024 16:20:16] - Object [#birthdate] Value Set to [1992-07-30]
+
+[Thursday, October 24th 2024 16:20:16] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:16] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:17] - Object [#email] Value Set to [lily.johnson@email.com]
+
+[Thursday, October 24th 2024 16:20:17] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:17] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:17] - Object [#phone] Value Set to [8005559876]
+
+[Thursday, October 24th 2024 16:20:17] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:17] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:17] - Object [#street1] Value Set to [789 Pine Road]
+
+[Thursday, October 24th 2024 16:20:17] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:17] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:18] - Object [#street2] Value Set to [Suite 300]
+
+[Thursday, October 24th 2024 16:20:18] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:18] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:18] - Object [#city] Value Set to [Chicago]
+
+[Thursday, October 24th 2024 16:20:18] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:18] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:18] - Object [#stateProvince] Value Set to [IL]
+
+[Thursday, October 24th 2024 16:20:18] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:18] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:18] - Object [#postalCode] Value Set to [60601]
+
+[Thursday, October 24th 2024 16:20:18] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:18] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:19] - Object [#country] Value Set to [USA]
+
+[Thursday, October 24th 2024 16:20:19] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:20:19] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:20:19] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:20:19] - Test Completed: TC003_User adds third contact
+

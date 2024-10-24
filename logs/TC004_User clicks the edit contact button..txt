@@ -1,0 +1,14 @@
+[Thursday, October 24th 2024 16:20:30] - Test started: TC004_User clicks the edit contact button.
+
+[Thursday, October 24th 2024 16:20:30] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:20:31] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:20:31] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:20:31] - Object [//header/h1] Text [Edit Contact]
+
+[Thursday, October 24th 2024 16:20:31] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:20:31] - Test Completed: TC004_User clicks the edit contact button.
+

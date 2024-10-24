@@ -1,4 +1,4 @@
-[Thursday, October 24th 2024 15:59:15] - Started Function: Logging Table Details
+[Thursday, October 24th 2024 16:20:55] - Started Function: Logging Table Details
 
 
         Name: James Garcia
@@ -19,5 +19,5 @@
         Country: USA
     
 
-[Thursday, October 24th 2024 15:59:15] - Completed Function: Logging Table Details
+[Thursday, October 24th 2024 16:20:55] - Completed Function: Logging Table Details
 

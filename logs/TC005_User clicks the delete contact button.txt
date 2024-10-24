@@ -1,0 +1,8 @@
+[Thursday, October 24th 2024 16:20:44] - Test started: TC005_User clicks the delete contact button
+
+[Thursday, October 24th 2024 16:20:44] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:20:44] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:20:44] - Test Completed: TC005_User clicks the delete contact button
+

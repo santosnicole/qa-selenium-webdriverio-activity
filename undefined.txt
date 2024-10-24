@@ -1,0 +1,678 @@
+[Thursday, October 24th 2024 16:12:06] - Test Completed: Navigate to thinking tester website
+
+[Thursday, October 24th 2024 16:12:06] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:07] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:07] - Test Completed: User clicks the Sign up button.
+
+[Thursday, October 24th 2024 16:12:07] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:07] - Object [//input[@id="firstName"]] Value Set to [Nicole]
+
+[Thursday, October 24th 2024 16:12:07] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:07] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:07] - Object [//input[@id="lastName"]] Value Set to [Santos]
+
+[Thursday, October 24th 2024 16:12:07] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:07] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:08] - Object [//input[@id="email"]] Value Set to [test_202410241613@test.com]
+
+[Thursday, October 24th 2024 16:12:08] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:08] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:08] - Object [//input[@id="password"]] Value Set to [SamplePassword]
+
+[Thursday, October 24th 2024 16:12:08] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:08] - Test Completed: User fills out fields.
+
+[Thursday, October 24th 2024 16:12:08] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:08] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:08] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:19] - Test Completed: Click Submit button.
+
+[Thursday, October 24th 2024 16:12:26] - Test Completed: Navigate to thinking tester website
+
+[Thursday, October 24th 2024 16:12:26] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:27] - Object [//input[@id="email"]] Value Set to [test_202410241613@test.com]
+
+[Thursday, October 24th 2024 16:12:27] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:27] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:27] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:27] - Object [//input[@id="password"]] Value Set to [SamplePassword]
+
+[Thursday, October 24th 2024 16:12:27] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:27] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:27] - Test Completed: User fills out fields.
+
+[Thursday, October 24th 2024 16:12:27] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:27] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:27] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:29] - Object [//header/h1] Text [Contact List]
+
+[Thursday, October 24th 2024 16:12:29] - Test Completed: Click Submit button.
+
+[Thursday, October 24th 2024 16:12:29] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:35] - Test Completed: Navigate to thinking tester website.
+
+[Thursday, October 24th 2024 16:12:35] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:36] - Object [//input[@id="email"]] Value Set to [test_202410241613@test.com]
+
+[Thursday, October 24th 2024 16:12:36] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:36] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:36] - Object [//input[@id="password"]] Value Set to [SamplePassword]
+
+[Thursday, October 24th 2024 16:12:36] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:36] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:36] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:36] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:37] - Object [//header/h1] Text [Contact List]
+
+[Thursday, October 24th 2024 16:12:37] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:37] - Test Completed: Login using the save credentials.
+
+[Thursday, October 24th 2024 16:12:37] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:38] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:38] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:38] - Object [//header/h1] Text [Add Contact]
+
+[Thursday, October 24th 2024 16:12:38] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:38] - Test Completed: User clicks the Add New Contact Button
+
+[Thursday, October 24th 2024 16:12:38] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:38] - Object [#firstName] Value Set to [Nicole]
+
+[Thursday, October 24th 2024 16:12:38] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:38] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:38] - Object [#lastName] Value Set to [Santos]
+
+[Thursday, October 24th 2024 16:12:38] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:38] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Object [#birthdate] Value Set to [1990-05-12]
+
+[Thursday, October 24th 2024 16:12:39] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Object [#email] Value Set to [nicole.santos@email.com]
+
+[Thursday, October 24th 2024 16:12:39] - Object [#phone] Value Set to [8005551234]
+
+[Thursday, October 24th 2024 16:12:39] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Object [#street1] Value Set to [123 Maple Street]
+
+[Thursday, October 24th 2024 16:12:39] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Object [#street2] Value Set to [Apt 4B]
+
+[Thursday, October 24th 2024 16:12:39] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:39] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:40] - Object [#city] Value Set to [New York]
+
+[Thursday, October 24th 2024 16:12:40] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:40] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:40] - Object [#stateProvince] Value Set to [NY]
+
+[Thursday, October 24th 2024 16:12:40] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:40] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:40] - Object [#postalCode] Value Set to [10001]
+
+[Thursday, October 24th 2024 16:12:40] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:40] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:40] - Object [#country] Value Set to [USA]
+
+[Thursday, October 24th 2024 16:12:40] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:40] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:41] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:41] - Test Completed: User adds first contact
+
+[Thursday, October 24th 2024 16:12:41] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:42] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:42] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:42] - Object [//header/h1] Text [Add Contact]
+
+[Thursday, October 24th 2024 16:12:42] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:42] - Test Completed: User clicks the Add New Contact Button
+
+[Thursday, October 24th 2024 16:12:42] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:42] - Object [#firstName] Value Set to [James]
+
+[Thursday, October 24th 2024 16:12:42] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:42] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:43] - Object [#lastName] Value Set to [Garcia]
+
+[Thursday, October 24th 2024 16:12:43] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:43] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:43] - Object [#birthdate] Value Set to [1985-11-23]
+
+[Thursday, October 24th 2024 16:12:43] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:43] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:43] - Object [#email] Value Set to [james.garcia@email.com]
+
+[Thursday, October 24th 2024 16:12:43] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:43] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:43] - Object [#phone] Value Set to [8005555678]
+
+[Thursday, October 24th 2024 16:12:43] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:43] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:44] - Object [#street1] Value Set to [456 Oak Avenue]
+
+[Thursday, October 24th 2024 16:12:44] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:44] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:44] - Object [#street2] Value Set to [Unit 12]
+
+[Thursday, October 24th 2024 16:12:44] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:44] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:44] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:44] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:44] - Object [#city] Value Set to [Los Angeles]
+
+[Thursday, October 24th 2024 16:12:44] - Object [#stateProvince] Value Set to [CA]
+
+[Thursday, October 24th 2024 16:12:44] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:44] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:45] - Object [#postalCode] Value Set to [90001]
+
+[Thursday, October 24th 2024 16:12:45] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:45] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:45] - Object [#country] Value Set to [USA]
+
+[Thursday, October 24th 2024 16:12:45] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:45] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:45] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:45] - Test Completed: User adds second contact
+
+[Thursday, October 24th 2024 16:12:45] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:46] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:46] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:47] - Object [//header/h1] Text [Add Contact]
+
+[Thursday, October 24th 2024 16:12:47] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:47] - Test Completed: User clicks the Add New Contact Button
+
+[Thursday, October 24th 2024 16:12:47] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:47] - Object [#firstName] Value Set to [Lily]
+
+[Thursday, October 24th 2024 16:12:47] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:47] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:47] - Object [#lastName] Value Set to [Johnson]
+
+[Thursday, October 24th 2024 16:12:47] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:47] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:47] - Object [#birthdate] Value Set to [1992-07-30]
+
+[Thursday, October 24th 2024 16:12:47] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:47] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:47] - Object [#email] Value Set to [lily.johnson@email.com]
+
+[Thursday, October 24th 2024 16:12:47] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:47] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:48] - Object [#phone] Value Set to [8005559876]
+
+[Thursday, October 24th 2024 16:12:48] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:48] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:48] - Object [#street1] Value Set to [789 Pine Road]
+
+[Thursday, October 24th 2024 16:12:48] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:48] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:48] - Object [#street2] Value Set to [Suite 300]
+
+[Thursday, October 24th 2024 16:12:48] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:48] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:48] - Object [#city] Value Set to [Chicago]
+
+[Thursday, October 24th 2024 16:12:48] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:48] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:49] - Object [#stateProvince] Value Set to [IL]
+
+[Thursday, October 24th 2024 16:12:49] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:49] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:49] - Object [#postalCode] Value Set to [60601]
+
+[Thursday, October 24th 2024 16:12:49] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:49] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:49] - Object [#country] Value Set to [USA]
+
+[Thursday, October 24th 2024 16:12:49] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:49] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:49] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:49] - Test Completed: User adds third contact
+
+[Thursday, October 24th 2024 16:12:56] - Test Completed: Navigate to thinking tester website.
+
+[Thursday, October 24th 2024 16:12:56] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:56] - Object [//input[@id="email"]] Value Set to [test_202410241613@test.com]
+
+[Thursday, October 24th 2024 16:12:56] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:56] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:57] - Object [//input[@id="password"]] Value Set to [SamplePassword]
+
+[Thursday, October 24th 2024 16:12:57] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:12:57] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:57] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:57] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:58] - Object [//header/h1] Text [Contact List]
+
+[Thursday, October 24th 2024 16:12:58] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:58] - Test Completed: Login using the save credentials.
+
+[Thursday, October 24th 2024 16:12:58] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:12:59] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:12:59] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:59] - Object [//header/h1] Text [Contact Details]
+
+[Thursday, October 24th 2024 16:12:59] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:12:59] - Test Completed: User clicks the first contact on the table.
+
+[Thursday, October 24th 2024 16:12:59] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:13:00] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:13:00] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:00] - Object [//header/h1] Text [Edit Contact]
+
+[Thursday, October 24th 2024 16:13:00] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:00] - Test Completed: User clicks the edit contact button.
+
+[Thursday, October 24th 2024 16:13:00] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:00] - Object [#postalCode] Value Set to []
+
+[Thursday, October 24th 2024 16:13:00] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:00] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:01] - Object [#postalCode] Value Set to [3001]
+
+[Thursday, October 24th 2024 16:13:01] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:01] - Test Completed: User edit the postal code to the date and time today.
+
+[Thursday, October 24th 2024 16:13:01] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:13:01] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:13:01] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:13:02] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:13:02] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:02] - Object [//header/h1] Text [Contact List]
+
+[Thursday, October 24th 2024 16:13:02] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:02] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:03] - Object [//*[@id="myTable"]/tr/td[7]] Text [Los Angeles CA 3001]
+
+[Thursday, October 24th 2024 16:13:03] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:03] - Test Completed: User clicks the submit button.
+
+[Thursday, October 24th 2024 16:13:10] - Test Completed: Navigate to thinking tester website
+
+[Thursday, October 24th 2024 16:13:10] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:10] - Object [//input[@id="email"]] Value Set to [test_202410241613@test.com]
+
+[Thursday, October 24th 2024 16:13:10] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:10] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:11] - Object [//input[@id="password"]] Value Set to [SamplePassword]
+
+[Thursday, October 24th 2024 16:13:11] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:11] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:13:11] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:13:11] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:12] - Object [//header/h1] Text [Contact List]
+
+[Thursday, October 24th 2024 16:13:12] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:12] - Test Completed: Login using the save credentials.
+
+[Thursday, October 24th 2024 16:13:12] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:13:13] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:13:13] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:13] - Object [//header/h1] Text [Contact Details]
+
+[Thursday, October 24th 2024 16:13:13] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:13] - Test Completed: User clicks the last contact on the table
+
+[Thursday, October 24th 2024 16:13:13] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:13:13] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:13:13] - Test Completed: User clicks the delete contact button
+
+[Thursday, October 24th 2024 16:13:19] - Test Completed: Navigate to thinking tester website.
+
+[Thursday, October 24th 2024 16:13:19] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:20] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:20] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:20] - Object [//input[@id="email"]] Value Set to [test_202410241613@test.com]
+
+[Thursday, October 24th 2024 16:13:20] - Object [//input[@id="password"]] Value Set to [SamplePassword]
+
+[Thursday, October 24th 2024 16:13:20] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:13:20] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:13:21] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:13:21] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Object [//header/h1] Text [Contact List]
+
+[Thursday, October 24th 2024 16:13:22] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Test Completed: Login using the save credentials.
+
+[Thursday, October 24th 2024 16:13:22] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Object [//*[@id="myTable"]/tr[1]/td[2]] Text [James Garcia]
+
+[Thursday, October 24th 2024 16:13:22] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Object [//*[@id="myTable"]/tr[1]/td[3]] Text [1985-11-23]
+
+[Thursday, October 24th 2024 16:13:22] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Object [//*[@id="myTable"]/tr[1]/td[4]] Text [james.garcia@email.com]
+
+[Thursday, October 24th 2024 16:13:22] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:22] - Object [//*[@id="myTable"]/tr[1]/td[5]] Text [8005555678]
+
+[Thursday, October 24th 2024 16:13:22] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Object [//*[@id="myTable"]/tr[1]/td[6]] Text [456 Oak Avenue Unit 12]
+
+[Thursday, October 24th 2024 16:13:23] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Object [//*[@id="myTable"]/tr[1]/td[7]] Text [Los Angeles CA 3001]
+
+[Thursday, October 24th 2024 16:13:23] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Object [//*[@id="myTable"]/tr[1]/td[8]] Text [USA]
+
+[Thursday, October 24th 2024 16:13:23] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Object [//*[@id="myTable"]/tr[2]/td[2]] Text [James Garcia]
+
+[Thursday, October 24th 2024 16:13:23] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Object [//*[@id="myTable"]/tr[2]/td[3]] Text [1985-11-23]
+
+[Thursday, October 24th 2024 16:13:23] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Object [//*[@id="myTable"]/tr[2]/td[4]] Text [james.garcia@email.com]
+
+[Thursday, October 24th 2024 16:13:23] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Object [//*[@id="myTable"]/tr[2]/td[5]] Text [8005555678]
+
+[Thursday, October 24th 2024 16:13:23] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:23] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[2]/td[6]] Text [456 Oak Avenue Unit 12]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[2]/td[7]] Text [Los Angeles CA 90001]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[2]/td[8]] Text [USA]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[3]/td[2]] Text [Lily Johnson]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[3]/td[3]] Text [1992-07-30]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[3]/td[4]] Text [lily.johnson@email.com]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[3]/td[5]] Text [8005559876]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[3]/td[6]] Text [789 Pine Road Suite 300]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[3]/td[7]] Text [Chicago IL 60601]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[3]/td[8]] Text [USA]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[4]/td[2]] Text [Nicole Santos]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Object [//*[@id="myTable"]/tr[4]/td[3]] Text [1990-05-12]
+
+[Thursday, October 24th 2024 16:13:24] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:24] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Object [//*[@id="myTable"]/tr[4]/td[4]] Text [nicole.santos@email.com]
+
+[Thursday, October 24th 2024 16:13:25] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Object [//*[@id="myTable"]/tr[4]/td[5]] Text [8005551234]
+
+[Thursday, October 24th 2024 16:13:25] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Object [//*[@id="myTable"]/tr[4]/td[6]] Text [123 Maple Street Apt 4B]
+
+[Thursday, October 24th 2024 16:13:25] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Object [//*[@id="myTable"]/tr[4]/td[7]] Text [New York NY 10001]
+
+[Thursday, October 24th 2024 16:13:25] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Object [//*[@id="myTable"]/tr[4]/td[8]] Text [USA]
+
+[Thursday, October 24th 2024 16:13:25] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 16:13:25] - Test Completed: User creates a text file containing all the details of the existing contacts in the table.
+

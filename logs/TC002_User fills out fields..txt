@@ -1,0 +1,20 @@
+[Thursday, October 24th 2024 16:19:52] - Test started: TC002_User fills out fields.
+
+[Thursday, October 24th 2024 16:19:52] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:19:53] - Object [//input[@id="email"]] Value Set to [testn_202410241613@test.com]
+
+[Thursday, October 24th 2024 16:19:53] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:19:53] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 16:19:53] - Object [//input[@id="password"]] Value Set to [SamplePassword]
+
+[Thursday, October 24th 2024 16:19:53] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 16:19:53] - Started Function: clickObject
+
+[Thursday, October 24th 2024 16:19:53] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 16:19:53] - Test Completed: TC002_User fills out fields.
+

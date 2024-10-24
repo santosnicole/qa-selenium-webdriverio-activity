@@ -7,15 +7,13 @@ import moment from "moment"
 import addContact from "../pageobjects/addContact.js"
 
 describe("Heroku App SignUp_TC003", () => {
-  it("Navigate to thinking tester website.", async () => {
+  it("TC003_Navigate to thinking tester website.", async () => {
     await login.navigate()
   })
 
-  it("Login using the save credentials.", async () => {
+  it("TC003_Login using the save credentials.", async () => {
     const seatNum = "13"
-    const my_email = `test_${moment().format(
-      "YYYYMMDD"
-    )}${seatNum}@test.com`
+    const my_email = `testn_${moment().format("YYYYMMDDHH")}${seatNum}@test.com`
     const password = "SamplePassword"
 
     await objUtils.setObjectValue(login.emailTxt, my_email)
@@ -26,14 +24,14 @@ describe("Heroku App SignUp_TC003", () => {
     await expect(pageTitle).toContain("Contact List")
   })
 
-  it("User clicks the Add New Contact Button", async () => {
+  it("TC003_User clicks the Add New Contact Button", async () => {
     await objUtils.clickObject(contactList.addContactBtn)
 
     const pageTitle = await objUtils.getObjectText(contactList.pageTitle)
     await expect(pageTitle).toContain("Add Contact")
   })
 
-  it("User adds first contact", async () => {
+  it("TC003_User adds first contact", async () => {
     await objUtils.setObjectValue(addContact.firstName, "Nicole")
     await objUtils.setObjectValue(addContact.lastName, "Santos")
     await objUtils.setObjectValue(addContact.birthdate, "1990-05-12")
@@ -49,14 +47,14 @@ describe("Heroku App SignUp_TC003", () => {
     await objUtils.clickObject(addContact.submitBtn)
   })
 
-  it("User clicks the Add New Contact Button", async () => {
+  it("TC003_User clicks the Add New Contact Button", async () => {
     await objUtils.clickObject(contactList.addContactBtn)
 
     const pageTitle = await objUtils.getObjectText(contactList.pageTitle)
     await expect(pageTitle).toContain("Add Contact")
   })
 
-  it("User adds second contact", async () => {
+  it("TC003_User adds second contact", async () => {
     await objUtils.setObjectValue(addContact.firstName, "James")
     await objUtils.setObjectValue(addContact.lastName, "Garcia")
     await objUtils.setObjectValue(addContact.birthdate, "1985-11-23")
@@ -72,14 +70,14 @@ describe("Heroku App SignUp_TC003", () => {
     await objUtils.clickObject(addContact.submitBtn)
   })
 
-  it("User clicks the Add New Contact Button", async () => {
+  it("TC003_User clicks the Add New Contact Button", async () => {
     await objUtils.clickObject(contactList.addContactBtn)
 
     const pageTitle = await objUtils.getObjectText(contactList.pageTitle)
     await expect(pageTitle).toContain("Add Contact")
   })
 
-  it("User adds third contact", async () => {
+  it("TC003_User adds third contact", async () => {
     await objUtils.setObjectValue(addContact.firstName, "Lily")
     await objUtils.setObjectValue(addContact.lastName, "Johnson")
     await objUtils.setObjectValue(addContact.birthdate, "1992-07-30")
