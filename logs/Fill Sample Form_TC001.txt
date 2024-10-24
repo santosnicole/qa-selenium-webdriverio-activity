@@ -1,0 +1,46 @@
+[Thursday, October 24th 2024 10:05:13] - Test started: Fill Sample Form_TC001
+
+[Thursday, October 24th 2024 10:05:13] - Step 1: Navigate to UltimateQA website
+
+[Thursday, October 24th 2024 10:05:13] - Navigate to UltimateQA website
+
+[Thursday, October 24th 2024 10:05:16] - Step 2: User fills contact name field
+
+[Thursday, October 24th 2024 10:05:16] - User fills contact name field
+
+[Thursday, October 24th 2024 10:05:16] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 10:05:16] - Object [//input[@id="et_pb_contact_name_0"]] Value Set to [Nicole]
+
+[Thursday, October 24th 2024 10:05:16] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 10:05:16] - Step 3: User fills message field
+
+[Thursday, October 24th 2024 10:05:16] - User fills message field
+
+[Thursday, October 24th 2024 10:05:16] - Started Function: setObjectValue
+
+[Thursday, October 24th 2024 10:05:19] - Object [//*[@id="et_pb_contact_message_0"]] Value Set to [Nicole's message]
+
+[Thursday, October 24th 2024 10:05:19] - Step 4: User clicks submit button
+
+[Thursday, October 24th 2024 10:05:19] - Completed Function: setObjectValue
+
+[Thursday, October 24th 2024 10:05:19] - User clicks submit button
+
+[Thursday, October 24th 2024 10:05:19] - Started Function: clickObject
+
+[Thursday, October 24th 2024 10:05:20] - Completed Function: clickObject
+
+[Thursday, October 24th 2024 10:05:20] - Step 5: Check if success message exists
+
+[Thursday, October 24th 2024 10:05:20] - Check if success message exists
+
+[Thursday, October 24th 2024 10:05:20] - Started Function: getObjectText
+
+[Thursday, October 24th 2024 10:05:22] - Object [//*[@id="et_pb_contact_form_0"]/div/p] Text [Thanks for contacting us]
+
+[Thursday, October 24th 2024 10:05:22] - Completed Function: getObjectText
+
+[Thursday, October 24th 2024 10:05:22] - Test Completed: Fill Sample Form_TC001
+
